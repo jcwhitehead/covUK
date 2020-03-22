@@ -4,4 +4,11 @@ Public Health England (PHE) is currently publishing daily updates of the regiona
 
 This repository tracks the evolution of the regional case counts over time.
 
+## Case distribution
+
 ![chloropleth map of England](UK_regional/map.png)
+
+## Case density
+
+![chloropleth map of England](UK_regional/map_density.png)
+(colour map: black ~ 3 cases per 1000)
