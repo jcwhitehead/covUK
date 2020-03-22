@@ -12,3 +12,7 @@ This repository tracks the evolution of the regional case counts over time.
 
 ![chloropleth map of England](UK_regional/map_density.png)
 (colour map: black ~ 3 cases per 1000)
+
+## Regional data over time
+
+![graphs of all UTLAs' case counts, divided by region](UK_regional/plots/UTLAs.png)
