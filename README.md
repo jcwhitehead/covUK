@@ -6,6 +6,8 @@ This repository tracks the evolution of the regional case counts over time.  It 
 
 ## Case distribution
 
+![chloropleth map of England](UK_regional/map_LTLA.png)
+
 ![chloropleth map of England](UK_regional/map.png)
 
 ## Case density
