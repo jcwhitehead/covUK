@@ -13,6 +13,8 @@ This repository tracks the evolution of the regional case counts over time.  It 
 ## Case density
 
 (colour map: black ~ 3 cases per 1000)
+![chloropleth map of England](UK_regional/map_density_LTLA.png)
+
 ![chloropleth map of England](UK_regional/map_density.png)
 
 ## R(t) snapshot
