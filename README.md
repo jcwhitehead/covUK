@@ -9,20 +9,26 @@ This repository tracks the evolution of the regional case counts over time.  It 
 (colour map: black ~ 8 cases per 1000)
 ![chloropleth map of England](UK_regional/map_density_LTLA.png)
 
+## New case density (~last week)
+(colour map: black ~ 2 new cases per 1000)
+![chloropleth map of England](UK_regional/map_density_LTLA_lw.png)
+
 ## R(t) snapshot
 
 (colour map: green R < 1; white R ~ 1; red R > 1)
 ![chloropleth map of England](UK_regional/map_reff.png)
-
-## Regional data over time
-
-![graphs of all UTLAs' case counts, divided by region](UK_regional/plots/UTLAs.png)
 
 ## Estimate of R(t), over time
 
 Methodology based on RKI's.
 
 ![graphs of all UTLAs' estimated effective reproduction index](UK_regional/plots/R.png)
+
+## Regional data over time
+
+![graphs of all UTLAs' case densities, divided by region](UK_regional/plots/UTLAs_density.png)
+
+![graphs of all UTLAs' case counts, divided by region](UK_regional/plots/UTLAs.png)
 
 ## Exponential potential
 
