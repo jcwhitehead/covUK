@@ -1,5 +1,5 @@
-* Since the 3rd August PHE has released a high-quality [dashboard](https://coronavirus.data.gov.uk/) and changed its data API.
-As a result the plots below are frozen in their state on that date, and will no longer update daily.*
+*As of August 3 PHE has released a high-quality live [dashboard](https://coronavirus.data.gov.uk/) and changed its data API.
+As a result my scripts have been retired, and the plots below are frozen as they were generated on 3 August, and will no longer update daily.*
 
 # covUK
 
