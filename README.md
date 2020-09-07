@@ -1,3 +1,6 @@
+* Since the 3rd August PHE has released a high-quality [dashboard](https://coronavirus.data.gov.uk/) and changed its data API.
+As a result the plots below are frozen in their state on that date, and will no longer update daily.*
+
 # covUK
 
 Public Health England (PHE) is currently publishing daily updates of the regional breakdown of confirmed Covid-19 cases in English UTLAs.
