@@ -1,8 +1,10 @@
 # covUK
 
-Public Health England (PHE) is currently publishing daily updates of the regional breakdown of confirmed Covid-19 cases in English UTLAs.
+Public Health England (PHE) is currently publishing daily updates of the regional breakdown of confirmed Covid-19 cases in English local authorities.
 
-This repository tracks the evolution of the regional case counts over time.  It should update automatically each day, shortly after the day's results have been published.
+This repository tracks the evolution of the regional case counts over time.  It digests the PHE data to produce some graphs, chiefly for my personal use, summarising the progression of the epidemic.
+
+It should update automatically each day, shortly after the day's results have been published.
 
 ## Case density
 
