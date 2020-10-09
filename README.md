@@ -1,9 +1,3 @@
-*As of August 3 PHE has released a high-quality live [dashboard](https://coronavirus.data.gov.uk/) and changed its data API.*
-
-*As a result my scripts have been retired, and the plots below will no longer update daily.*
-
-___
-
 # covUK
 
 Public Health England (PHE) is currently publishing daily updates of the regional breakdown of confirmed Covid-19 cases in English UTLAs.
@@ -31,9 +25,11 @@ Methodology based on RKI's.
 ![graphs of all UTLAs' estimated effective reproduction index](UK_regional/plots/R.png)
 
 ## Regional data over time
+### Density of cases
 
 ![graphs of all UTLAs' case densities, divided by region](UK_regional/plots/UTLAs_density.png)
 
+### Total number of cases
 ![graphs of all UTLAs' case counts, divided by region](UK_regional/plots/UTLAs.png)
 
 ## Exponential potential
