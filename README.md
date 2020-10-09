@@ -1,6 +1,6 @@
 # covUK
 
-Public Health England (PHE) is currently publishing daily updates of the regional breakdown of confirmed Covid-19 cases in English local authorities.
+Public Health England (PHE) is currently publishing daily updates of confirmed Covid-19 case numbers in English local authorities.
 
 This repository tracks the evolution of the regional case counts over time.  It digests the PHE data to produce some graphs, chiefly for my personal use, summarising the progression of the epidemic.
 
