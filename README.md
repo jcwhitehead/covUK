@@ -8,7 +8,7 @@ It should update automatically each day, shortly after the day's results have be
 
 ## Case density
 
-(colour map: black ~ 8 cases per 1000)
+(colour map: black ~ 10 cases per 100)
 ![chloropleth map of England](UK_regional/map_density_LTLA.png)
 
 ## New case density (~last week)
